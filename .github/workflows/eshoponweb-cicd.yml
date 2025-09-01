@@ -10,7 +10,7 @@ env:
   LOCATION: centralus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: b48e4955-52c8-4a6f-921e-5f81d776a2c6
-  WEBAPP-NAME: sirin-eshoponweb-webapp
+  WEBAPP-NAME: sirin-eshoponweb-webapp-01
 
 
 jobs:
